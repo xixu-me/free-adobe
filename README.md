@@ -4,6 +4,8 @@
 
 **一个简单、完整的 Adobe Creative Cloud 激活教程**
 
+**汉语** | [English](README.en.md)
+
 </div>
 
 ---
