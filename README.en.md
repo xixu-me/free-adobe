@@ -1,10 +1,10 @@
-# Complete Guide to Activating Adobe Creative Cloud with GenP
+***[汉语](README.md)***
 
 <div align="center">
 
-**A Simple, Complete Tutorial for Adobe Creative Cloud Activation**
+# Complete Guide to Activating Adobe Creative Cloud with GenP
 
-[汉语](README.md) | **English**
+**A Simple, Complete Tutorial for Adobe Creative Cloud Activation**
 
 </div>
 

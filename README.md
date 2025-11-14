@@ -1,10 +1,10 @@
-# 通过 GenP 激活 Adobe Creative Cloud 完整指南
+***[English](README.en.md)***
 
 <div align="center">
 
-**一个简单、完整的 Adobe Creative Cloud 激活教程**
+# 通过 GenP 激活 Adobe Creative Cloud 完整指南
 
-**汉语** | [English](README.en.md)
+**一个简单、完整的 Adobe Creative Cloud 激活教程**
 
 </div>
 
