@@ -3,6 +3,8 @@
 
 ***[汉语](README.zh.md)***
 
+> 🎨 **从创作工具走向创作成品。** 如果你正在探索视觉内容制作，可以用 [Renoise](https://renoise.ai/plugin) 通过 AI 对话把自然语言想法变成视频、图片或音乐；接入方式见[官方插件仓库](https://github.com/ArcoCodes/renoise-plugins-official)。
+
 <div align="center">
 
 # Complete Guide to Activating Adobe Creative Cloud with GenP
