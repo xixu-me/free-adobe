@@ -1,9 +1,20 @@
+<!-- renoise-banner -->
+<p align="center">
+  <a href="https://renoise.ai/plugin?utm_medium=github&utm_source=xixu">
+    <img src="https://raw.githubusercontent.com/ArcoCodes/renoise-plugins-official/main/assets/icon.svg" alt="Renoise" width="96">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://renoise.ai/plugin?utm_medium=github&utm_source=xixu">Renoise MCP</a> · <a href="https://github.com/ArcoCodes/renoise-plugins-official">Renoise Skills &amp; CLI</a><br><br>
+  <strong>Skip the timeline grind: describe the script and get a finished talking-head video without hand-building every shot.</strong>
+</p>
+
 > [!TIP]
 > 欢迎加入“Xget 开源与 AI 交流群”，一起交流开源项目、AI 应用、工程实践、效率工具和独立开发；如果你也在做产品、写代码、折腾项目或者对开源和 AI 感兴趣，欢迎[**进群**](https://file.xi-xu.me/QR%20Codes/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.png)认识更多认真做事、乐于分享的朋友。
 
 ***[汉语](README.zh.md)***
 
-> 🎨 **从创作工具走向创作成品。** 如果你正在探索视觉内容制作，可以用 [Renoise](https://renoise.ai/plugin) 通过 AI 对话把自然语言想法变成视频、图片或音乐；接入方式见[官方插件仓库](https://github.com/ArcoCodes/renoise-plugins-official)。
 
 <div align="center">
 
